@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\Task1\bin\Debug\Task1.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\Task1\bin\Debug\Task1.exe
+E:\MyFiles\BE_Net\Sessions\S2\Task1\bin\Debug\Task1.pdb
+E:\MyFiles\BE_Net\Sessions\S2\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\Task1\obj\Debug\Task1.exe
+E:\MyFiles\BE_Net\Sessions\S2\Task1\obj\Debug\Task1.pdb
