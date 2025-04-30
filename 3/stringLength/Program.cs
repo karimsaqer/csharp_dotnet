@@ -22,7 +22,9 @@ namespace stringLength
             if (str.Length > len)
             {
                 // check the last word before the length exceeds
-                int lastSpace = str.LastIndexOf(' ', len);
+                // int lastSpace = str.LastIndexOf(' ', len);
+                int lastSpace = str.IndexOf(' ', len);
+
                 if (lastSpace == -1)
                 {
                     str = str.Substring(0, len);
