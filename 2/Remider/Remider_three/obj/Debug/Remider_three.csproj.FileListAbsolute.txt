@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\bin\Debug\Remider_three.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\bin\Debug\Remider_three.exe
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\bin\Debug\Remider_three.pdb
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\obj\Debug\Remider_three.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\obj\Debug\Remider_three.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\obj\Debug\Remider_three.exe
+E:\MyFiles\BE_Net\Sessions\S2\Remider\Remider_three\obj\Debug\Remider_three.pdb

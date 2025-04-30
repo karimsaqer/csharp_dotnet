@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\factorial\bin\Debug\factorial.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\factorial\bin\Debug\factorial.exe
+E:\MyFiles\BE_Net\Sessions\S2\factorial\bin\Debug\factorial.pdb
+E:\MyFiles\BE_Net\Sessions\S2\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\factorial\obj\Debug\factorial.exe
+E:\MyFiles\BE_Net\Sessions\S2\factorial\obj\Debug\factorial.pdb

@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\max\bin\Debug\max.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\max\bin\Debug\max.exe
+E:\MyFiles\BE_Net\Sessions\S2\max\bin\Debug\max.pdb
+E:\MyFiles\BE_Net\Sessions\S2\max\obj\Debug\max.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\max\obj\Debug\max.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\max\obj\Debug\max.exe
+E:\MyFiles\BE_Net\Sessions\S2\max\obj\Debug\max.pdb

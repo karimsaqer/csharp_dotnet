@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\InSession\bin\Debug\InSession.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\InSession\bin\Debug\InSession.exe
+E:\MyFiles\BE_Net\Sessions\S2\InSession\bin\Debug\InSession.pdb
+E:\MyFiles\BE_Net\Sessions\S2\InSession\obj\Debug\InSession.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\InSession\obj\Debug\InSession.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\InSession\obj\Debug\InSession.exe
+E:\MyFiles\BE_Net\Sessions\S2\InSession\obj\Debug\InSession.pdb

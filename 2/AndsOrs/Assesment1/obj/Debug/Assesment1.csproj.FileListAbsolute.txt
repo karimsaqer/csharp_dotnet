@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\bin\Debug\Assesment1.exe.config
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\bin\Debug\Assesment1.exe
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\bin\Debug\Assesment1.pdb
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\obj\Debug\Assesment1.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\obj\Debug\Assesment1.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\obj\Debug\Assesment1.exe
+E:\MyFiles\BE_Net\Sessions\S2\AndsOrs\Assesment1\obj\Debug\Assesment1.pdb
