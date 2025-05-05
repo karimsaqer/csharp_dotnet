@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\4\Struct\bin\Debug\Struct.exe.config
+E:\MyFiles\BE_Net\Assignmets\4\Struct\bin\Debug\Struct.exe
+E:\MyFiles\BE_Net\Assignmets\4\Struct\bin\Debug\Struct.pdb
+E:\MyFiles\BE_Net\Assignmets\4\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\4\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\4\Struct\obj\Debug\Struct.exe
+E:\MyFiles\BE_Net\Assignmets\4\Struct\obj\Debug\Struct.pdb

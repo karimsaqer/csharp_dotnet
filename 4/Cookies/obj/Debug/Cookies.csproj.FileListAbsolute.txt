@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\bin\Debug\Cookies.exe.config
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\bin\Debug\Cookies.exe
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\bin\Debug\Cookies.pdb
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\obj\Debug\Cookies.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\obj\Debug\Cookies.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\obj\Debug\Cookies.exe
+E:\MyFiles\BE_Net\Assignmets\4\Cookies\obj\Debug\Cookies.pdb

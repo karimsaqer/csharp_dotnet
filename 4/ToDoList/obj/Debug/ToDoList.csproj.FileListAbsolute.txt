@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\bin\Debug\ToDoList.exe.config
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\bin\Debug\ToDoList.exe
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\bin\Debug\ToDoList.pdb
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\obj\Debug\ToDoList.exe
+E:\MyFiles\BE_Net\Assignmets\4\ToDoList\obj\Debug\ToDoList.pdb

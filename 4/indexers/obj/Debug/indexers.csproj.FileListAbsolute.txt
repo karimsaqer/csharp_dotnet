@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\4\indexers\bin\Debug\indexers.exe.config
+E:\MyFiles\BE_Net\Assignmets\4\indexers\bin\Debug\indexers.exe
+E:\MyFiles\BE_Net\Assignmets\4\indexers\bin\Debug\indexers.pdb
+E:\MyFiles\BE_Net\Assignmets\4\indexers\obj\Debug\indexers.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\4\indexers\obj\Debug\indexers.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\4\indexers\obj\Debug\indexers.exe
+E:\MyFiles\BE_Net\Assignmets\4\indexers\obj\Debug\indexers.pdb
