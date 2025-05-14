@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\bin\Debug\Stopwatch.exe.config
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\bin\Debug\Stopwatch.exe
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\bin\Debug\Stopwatch.pdb
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\obj\Debug\Stopwatch.exe
+E:\MyFiles\BE_Net\Assignmets\5\Stopwatch\obj\Debug\Stopwatch.pdb

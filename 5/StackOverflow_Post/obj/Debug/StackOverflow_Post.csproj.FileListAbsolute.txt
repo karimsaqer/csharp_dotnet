@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\bin\Debug\StackOverflow_Post.exe.config
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\bin\Debug\StackOverflow_Post.exe
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\bin\Debug\StackOverflow_Post.pdb
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\obj\Debug\StackOverflow_Post.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\obj\Debug\StackOverflow_Post.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\obj\Debug\StackOverflow_Post.exe
+E:\MyFiles\BE_Net\Assignmets\5\StackOverflow_Post\obj\Debug\StackOverflow_Post.pdb

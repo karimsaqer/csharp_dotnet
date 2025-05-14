@@ -1,0 +1,7 @@
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\bin\Debug\Triangles.exe.config
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\bin\Debug\Triangles.exe
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\bin\Debug\Triangles.pdb
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\obj\Debug\Triangles.csproj.AssemblyReference.cache
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\obj\Debug\Triangles.exe
+E:\MyFiles\BE_Net\Assignmets\5\Triangles\obj\Debug\Triangles.pdb
